@@ -1,5 +1,5 @@
 
-№Разработал SurpriseFromSergo (SergoDeveloper)
+#Разработал SurpriseFromSergo (SergoDeveloper)
 #Импорт библиотек ExmoAPI
 import sys
 import http.client
